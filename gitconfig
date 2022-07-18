@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = n.sonn@hotmail.co.uk
+	name = Nathan Sonn
